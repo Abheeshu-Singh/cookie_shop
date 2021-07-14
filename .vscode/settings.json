@@ -1,0 +1,10 @@
+{
+    "dart.webDaemonLogFile": null,
+    "dart.vmServiceLogFile": null,
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true,
+    }
+
+    
+}
